@@ -41,7 +41,7 @@ function Header() {
 		},
 	]
 
-	const phoneNumber = "+1 435 237-2950"
+	const phoneNumber = "+2349033299005"
 
 	return (
 		<Flex
