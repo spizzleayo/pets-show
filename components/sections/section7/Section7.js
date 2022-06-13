@@ -96,7 +96,7 @@ bring something that smells like home.`
                         <Flex color="white" justifyContent="center" w="26px" h="full" >
                             <PhoneIcon solid={true} />
                         </Flex>
-                        +1 (435) 237-2950
+                        +2349033299005
                     </Text>
                 </Flex>
             </Box>

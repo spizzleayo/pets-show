@@ -18,15 +18,15 @@ function Footer() {
         about: [
             {
                 id: nanoid(),
-                title: "Salt Lake City, Utah(UT)",
+                title: "Lagos, Nigeria",
             },
             {
                 id: nanoid(),
-                title: "+1 435 237-2950",
+                title: "+2349033299005",
             },
             {
                 id: nanoid(),
-                title: "Mon - Sun: 8AM - 8PM"
+                title: "Mon - Sun: 9AM - 6PM"
             },
 
         ],
@@ -63,12 +63,14 @@ function Footer() {
             id: nanoid(),
             socialNetwork: 'Github',
             iconSvg: <Github />,
+            url: 'https://github.com/spizzleayo',
             
         },
         {
             id: nanoid(),
             socialNetwork: 'Twitter',
             iconSvg: <Twitter />,
+            url: 'https://twitter.com/spizzleayo',
             pt: "2px"
         },
     ]
