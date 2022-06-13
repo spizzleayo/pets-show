@@ -57,19 +57,18 @@ function Footer() {
             id: nanoid(),
             socialNetwork: 'Instagram',
             iconSvg: <Instagram />,
-            url: 'https://www.instagram.com/nc_cvargas',
+        
         },
         {
             id: nanoid(),
             socialNetwork: 'Github',
             iconSvg: <Github />,
-            url: 'https://github.com/Carlos-vargs',
+            
         },
         {
             id: nanoid(),
             socialNetwork: 'Twitter',
             iconSvg: <Twitter />,
-            url: 'https://twitter.com/nc_cvargas',
             pt: "2px"
         },
     ]
